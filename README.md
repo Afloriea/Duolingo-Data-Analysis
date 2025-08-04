@@ -20,6 +20,15 @@ This project compares virtual learning using **Duolingo** with structured **clas
 
 ---
 
+# Project Members & Contributions
+
+- Sam - Project idea conception, data analysis, and visualization
+- Kevin - Software engineering and prototype development
+- Kelvin - Documentation and data visualization
+- Kevin - Product management and data cleaning
+
+---
+
 ## Methods
 
 - **Survey**: Distributed via r/languagelearning subreddit to understand learner preferences and perceptions.
