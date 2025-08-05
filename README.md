@@ -2,7 +2,6 @@
 
 A data-driven research project exploring the effectiveness of two distinct language learning methods — **Duolingo** and **traditional classroom settings** — through quantitative and qualitative analysis.
 
-Conducted by: Kelvin Law, Kevin Ko, Kevin Wen, Sam Wang  
 University of Washington — Information School  
 Course: IMT 570 — Data-Driven Organizational Problem Solving
 
